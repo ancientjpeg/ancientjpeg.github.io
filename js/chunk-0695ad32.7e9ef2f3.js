@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-0695ad32"],{8564:function(n,c,t){"use strict";t("cc48")},9703:function(n,c,t){"use strict";t.r(c);var e=t("7a23"),o={class:"not-found"},u=Object(e["g"])("h1",null,"Error 404:",-1),r=Object(e["g"])("h2",null,"You done f$#!ed up my perfectly good website.",-1),d=[u,r];function s(n,c){return Object(e["t"])(),Object(e["f"])("div",o,d)}t("8564");var i=t("6b0d"),f=t.n(i);const a={},b=f()(a,[["render",s]]);c["default"]=b},cc48:function(n,c,t){}}]);
+//# sourceMappingURL=chunk-0695ad32.7e9ef2f3.js.map
